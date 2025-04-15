@@ -184,16 +184,5 @@ Make sure you have Python installed along with the following libraries:
    ```
 3. Run the notebook or script containing the code.
 
----
 
-## **References**
-1. GroupLens Research - MovieLens Dataset Documentation
-2. Harper & Konstan, "The MovieLens Datasets: History and Context"
-3. Netflix Recommendation System Insights
 
----
-
-Let me know if you'd like any changes or additional sections!
-
----
-Answer from Perplexity: pplx.ai/share
